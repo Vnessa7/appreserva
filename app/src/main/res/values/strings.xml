@@ -3,4 +3,8 @@
     <string name="app_nameRegister">Registro</string>
     <string name="app_nameClient">Client</string>
     <string name="app_nameAdmin">Admin</string>
+    <string name="labelNombres">Ingrese Nombres</string>
+    <string name="labelApellidos">Ingrese Apellidos</string>
+    <string name="seleccionePiso">Seleccione Piso</string>
+    <string name="btnGrabar">Reservar</string>
 </resources>
